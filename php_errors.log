@@ -1,0 +1,437 @@
+[05-Oct-2015 14:41:05 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:41:05 UTC] PHP Stack trace:
+[05-Oct-2015 14:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:41:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:41:05 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:41:05 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:05 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:05 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:41:15 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:41:15 UTC] PHP Stack trace:
+[05-Oct-2015 14:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:41:15 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:41:15 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:41:15 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:15 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:15 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:41:25 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:41:25 UTC] PHP Stack trace:
+[05-Oct-2015 14:41:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:41:25 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:41:25 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:41:25 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:25 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:25 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:41:38 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:41:38 UTC] PHP Stack trace:
+[05-Oct-2015 14:41:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:41:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:41:38 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:41:38 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:38 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:41:38 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:42:04 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:42:04 UTC] PHP Stack trace:
+[05-Oct-2015 14:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:42:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:42:04 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:42:04 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:04 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:04 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:42:15 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:42:15 UTC] PHP Stack trace:
+[05-Oct-2015 14:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:42:15 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:42:15 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:42:15 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:15 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:15 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:42:32 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:42:32 UTC] PHP Stack trace:
+[05-Oct-2015 14:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:42:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:42:32 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:42:32 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:32 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:32 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[05-Oct-2015 14:42:43 UTC] PHP Warning:  mysql_get_server_info() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php on line 72
+[05-Oct-2015 14:42:43 UTC] PHP Stack trace:
+[05-Oct-2015 14:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/options-general.php:0
+[05-Oct-2015 14:42:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/options-general.php:10
+[05-Oct-2015 14:42:43 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:236
+[05-Oct-2015 14:42:43 UTC] PHP   4. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:43 UTC] PHP   5. ksuce_options_page() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[05-Oct-2015 14:42:43 UTC] PHP   6. mysql_get_server_info() /home/ubuntu/workspace/wp-content/plugins/ultimate-category-excluder/ultimate-category-excluder.php:72
+[06-Oct-2015 19:19:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 19:19:57 UTC] PHP Stack trace:
+[06-Oct-2015 19:19:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 19:19:57 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 19:19:57 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:19:57 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:19:57 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 19:19:57 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 19:19:57 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 19:21:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 19:21:01 UTC] PHP Stack trace:
+[06-Oct-2015 19:21:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 19:21:01 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 19:21:01 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:01 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:01 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 19:21:01 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 19:21:01 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 19:21:13 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 19:21:13 UTC] PHP Stack trace:
+[06-Oct-2015 19:21:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 19:21:13 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 19:21:13 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:13 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:13 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 19:21:13 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 19:21:13 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 19:21:40 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 19:21:40 UTC] PHP Stack trace:
+[06-Oct-2015 19:21:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 19:21:40 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 19:21:40 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:40 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:21:40 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 19:21:40 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 19:21:40 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 19:22:10 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 19:22:10 UTC] PHP Stack trace:
+[06-Oct-2015 19:22:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 19:22:10 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 19:22:10 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:22:10 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 19:22:10 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 19:22:10 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 19:22:10 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 20:01:22 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 20:01:22 UTC] PHP Stack trace:
+[06-Oct-2015 20:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 20:01:22 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 20:01:22 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:01:22 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:01:22 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 20:01:22 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 20:01:22 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 20:02:18 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 122
+[06-Oct-2015 20:02:18 UTC] PHP Stack trace:
+[06-Oct-2015 20:02:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 20:02:18 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 20:02:18 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 20:02:18 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 20:02:18 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:18 UTC] PHP   6. wp_version_check() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:18 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:122
+[06-Oct-2015 20:02:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 302
+[06-Oct-2015 20:02:24 UTC] PHP Stack trace:
+[06-Oct-2015 20:02:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 20:02:24 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 20:02:24 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 20:02:24 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 20:02:24 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:24 UTC] PHP   6. wp_update_plugins() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:24 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:302
+[06-Oct-2015 20:02:29 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 466
+[06-Oct-2015 20:02:29 UTC] PHP Stack trace:
+[06-Oct-2015 20:02:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 20:02:29 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 20:02:29 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 20:02:29 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 20:02:29 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:29 UTC] PHP   6. wp_update_themes() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 20:02:29 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:466
+[06-Oct-2015 20:22:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:22:53 UTC] PHP Stack trace:
+[06-Oct-2015 20:22:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:22:53 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:22:53 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:22:53 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:23:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:23:08 UTC] PHP Stack trace:
+[06-Oct-2015 20:23:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:23:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:23:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:23:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:23:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:23:20 UTC] PHP Stack trace:
+[06-Oct-2015 20:23:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:23:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:23:20 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:23:20 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:23:20 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:23:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:23:24 UTC] PHP Stack trace:
+[06-Oct-2015 20:23:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:23:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:23:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:23:24 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:23:24 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:23:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:23:41 UTC] PHP Stack trace:
+[06-Oct-2015 20:23:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:23:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:23:41 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:23:41 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:23:41 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:24:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:24:46 UTC] PHP Stack trace:
+[06-Oct-2015 20:24:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:24:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:24:46 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:24:46 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:24:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:24:52 UTC] PHP Stack trace:
+[06-Oct-2015 20:24:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:24:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:24:52 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:24:52 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:24:52 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:25:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:25:08 UTC] PHP Stack trace:
+[06-Oct-2015 20:25:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:25:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:25:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:25:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:25:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:25:57 UTC] PHP Stack trace:
+[06-Oct-2015 20:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:25:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:25:57 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:25:57 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:26:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:26:57 UTC] PHP Stack trace:
+[06-Oct-2015 20:26:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:26:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:26:57 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:26:57 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:27:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:27:08 UTC] PHP Stack trace:
+[06-Oct-2015 20:27:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:27:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:27:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:27:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:28:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:28:27 UTC] PHP Stack trace:
+[06-Oct-2015 20:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:28:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:28:27 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:28:27 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:28:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:28:42 UTC] PHP Stack trace:
+[06-Oct-2015 20:28:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:28:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:28:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:28:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:28:42 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:28:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:28:46 UTC] PHP Stack trace:
+[06-Oct-2015 20:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:28:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:28:46 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:28:46 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:28:46 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:29:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:29:08 UTC] PHP Stack trace:
+[06-Oct-2015 20:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:29:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:29:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:29:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:30:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:30:04 UTC] PHP Stack trace:
+[06-Oct-2015 20:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:30:04 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:30:04 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:30:04 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:30:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:30:05 UTC] PHP Stack trace:
+[06-Oct-2015 20:30:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:30:05 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:30:05 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:30:05 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:30:05 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:31:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:31:07 UTC] PHP Stack trace:
+[06-Oct-2015 20:31:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:31:07 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:31:07 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:31:07 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:31:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:31:08 UTC] PHP Stack trace:
+[06-Oct-2015 20:31:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:31:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:31:08 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:31:08 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:31:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:31:24 UTC] PHP Stack trace:
+[06-Oct-2015 20:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:31:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:31:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:31:24 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:31:24 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:31:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:31:46 UTC] PHP Stack trace:
+[06-Oct-2015 20:31:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:31:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:31:46 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:31:46 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:31:46 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:32:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:32:21 UTC] PHP Stack trace:
+[06-Oct-2015 20:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:32:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:32:21 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:32:21 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:32:21 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:32:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:32:30 UTC] PHP Stack trace:
+[06-Oct-2015 20:32:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:32:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:32:30 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:32:30 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:32:30 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:32:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:32:55 UTC] PHP Stack trace:
+[06-Oct-2015 20:32:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:32:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:32:55 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:32:55 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:32:55 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:32:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:32:56 UTC] PHP Stack trace:
+[06-Oct-2015 20:32:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[06-Oct-2015 20:32:56 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/plugins.php:10
+[06-Oct-2015 20:32:56 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:32:56 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:32:56 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:32:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:32:57 UTC] PHP Stack trace:
+[06-Oct-2015 20:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[06-Oct-2015 20:32:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/plugins.php:10
+[06-Oct-2015 20:32:57 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:32:57 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:32:57 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:09 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:09 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:09 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:18 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:18 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:18 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:18 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:24 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:24 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:33 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:33 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:33 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:39 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:39 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:39 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:48 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:48 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:48 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:48 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:54 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:54 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:54 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:54 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:59 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[06-Oct-2015 20:33:59 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[06-Oct-2015 20:33:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:33:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:59 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:33:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:33:59 UTC] PHP Stack trace:
+[06-Oct-2015 20:33:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:33:59 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:33:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:33:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:34:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:34:21 UTC] PHP Stack trace:
+[06-Oct-2015 20:34:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/theme-editor.php:0
+[06-Oct-2015 20:34:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/theme-editor.php:10
+[06-Oct-2015 20:34:21 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-admin/admin.php:31
+[06-Oct-2015 20:34:21 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:34:21 UTC] PHP   5. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:34:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:34:22 UTC] PHP Stack trace:
+[06-Oct-2015 20:34:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:34:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:34:22 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:34:22 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:34:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:34:26 UTC] PHP Stack trace:
+[06-Oct-2015 20:34:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:34:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:34:26 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:34:26 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:34:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:34:41 UTC] PHP Stack trace:
+[06-Oct-2015 20:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:34:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:34:41 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:34:41 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 20:34:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 274
+[06-Oct-2015 20:34:42 UTC] PHP Stack trace:
+[06-Oct-2015 20:34:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Oct-2015 20:34:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[06-Oct-2015 20:34:42 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[06-Oct-2015 20:34:42 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[06-Oct-2015 21:27:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-admin/includes/plugin-install.php on line 83
+[06-Oct-2015 21:27:32 UTC] PHP Stack trace:
+[06-Oct-2015 21:27:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugin-install.php:0
+[06-Oct-2015 21:27:32 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/plugin-install.php:129
+[06-Oct-2015 21:27:32 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:27:32 UTC] PHP   4. install_dashboard() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:27:32 UTC] PHP   5. install_popular_tags() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:146
+[06-Oct-2015 21:27:32 UTC] PHP   6. plugins_api() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:123
+[06-Oct-2015 21:27:32 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-admin/includes/plugin-install.php:83
+[06-Oct-2015 21:29:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 122
+[06-Oct-2015 21:29:14 UTC] PHP Stack trace:
+[06-Oct-2015 21:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 21:29:14 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 21:29:14 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 21:29:14 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 21:29:14 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:14 UTC] PHP   6. wp_version_check() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:14 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:122
+[06-Oct-2015 21:29:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 302
+[06-Oct-2015 21:29:20 UTC] PHP Stack trace:
+[06-Oct-2015 21:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 21:29:20 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 21:29:20 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 21:29:20 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 21:29:20 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:20 UTC] PHP   6. wp_update_plugins() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:20 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:302
+[06-Oct-2015 21:29:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ubuntu/workspace/wp-includes/update.php on line 466
+[06-Oct-2015 21:29:25 UTC] PHP Stack trace:
+[06-Oct-2015 21:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/update.php:0
+[06-Oct-2015 21:29:25 UTC] PHP   2. Plugin_Upgrader->install() /home/ubuntu/workspace/wp-admin/update.php:145
+[06-Oct-2015 21:29:25 UTC] PHP   3. WP_Upgrader->run() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:827
+[06-Oct-2015 21:29:25 UTC] PHP   4. do_action() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:697
+[06-Oct-2015 21:29:25 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:25 UTC] PHP   6. wp_update_themes() /home/ubuntu/workspace/wp-includes/plugin.php:503
+[06-Oct-2015 21:29:25 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:466
