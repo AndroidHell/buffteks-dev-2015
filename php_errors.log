@@ -435,3 +435,15 @@
 [06-Oct-2015 21:29:25 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:503}() /home/ubuntu/workspace/wp-includes/plugin.php:503
 [06-Oct-2015 21:29:25 UTC] PHP   6. wp_update_themes() /home/ubuntu/workspace/wp-includes/plugin.php:503
 [06-Oct-2015 21:29:25 UTC] PHP   7. trigger_error() /home/ubuntu/workspace/wp-includes/update.php:466
+[07-Oct-2015 14:56:26 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 272
+[07-Oct-2015 14:56:26 UTC] PHP Stack trace:
+[07-Oct-2015 14:56:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Oct-2015 14:56:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Oct-2015 14:56:26 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Oct-2015 14:56:26 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83
+[07-Oct-2015 14:56:43 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/wp-content/themes/dazzling/functions.php on line 272
+[07-Oct-2015 14:56:43 UTC] PHP Stack trace:
+[07-Oct-2015 14:56:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[07-Oct-2015 14:56:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[07-Oct-2015 14:56:43 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[07-Oct-2015 14:56:43 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:83

@@ -17,7 +17,9 @@
 	</header><!-- .entry-header -->
 
 	<div class="entry-content">
-		<?php the_content(); ?>
+		<div class="card-content">
+			<?php the_content(); ?>
+		</div>
 		<?php
 			wp_link_pages( array(
 				'before'            => '<div class="page-links">'.__( 'Pages:', 'dazzling' ),

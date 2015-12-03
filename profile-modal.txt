@@ -1,0 +1,27 @@
+1. Fill in HTML template.
+
+2. Navigate to Easy Modal and clone derrick-bio by clicking on it and clicking the white “Clone” button on the right hand side.
+
+3. Paste your HTML in place of the clone HTML, out Kristi-bio for the Name(required) field and Click the blue Publish button on the right.
+
+4. Copy down the eModal-# class on the main Modal page. Mine says eModal-8. Yours will be similar to that format.
+
+5. Navigate to Pages > Members
+
+6. Copy and paste the code her in a text editor in case you need to restore it. (I’ve screwed this up before several time due to how WP handles automatically generated HTML)
+
+7. From this screen, you want to basically copy what I did for my profile.
+
+8. Copy the entire <button> Block of code and paste it directly below itself. This is the square element with the profile pic that acts as a button (duh)
+
+9. In the <button> class code, replace eModal-# with yours from earlier. This is what links to the actual modal. 
+
+10. Save at this point and test it to make sure we are on the right path. Refresh the Members page and click to see if it opens, etc. It should have my profile pic but your info.
+
+11. Good? Good!
+
+12. The best method for getting your pic in without crewing up code is to go to the bottom of the code and hit Enter a few times. Then Click on Add Media and find your image (Preferably 640 x 640 since it is what I used.)
+
+13. Now you just want to take the <img> section and replace your button’s <img> with this. Save again and for good measure, I’d also copy this code to a text editor as well just in case.
+
+14. After you refresh your page, you should have your profile image in the button you created.

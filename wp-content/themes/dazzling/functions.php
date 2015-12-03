@@ -12,6 +12,8 @@ if ( ! isset( $content_width ) ) {
 	$content_width = 730; /* pixels */
 }
 
+add_action('wp_head', 'mbe_wp_head');
+
 /**
  * Set the content width for full width pages with no sidebar.
  */
@@ -267,3 +269,24 @@ $query->set('cat', '-2, -4');
 return $query;
 }
 add_filter('pre_get_posts', 'exclude_category');
+
+function my_scripts_method() {
+	wp_enqueue_script(
+		'custom-script',
+		get_stylesheet_directory_uri() . '/js/scripts.js',
+		array( 'jquery' )
+	);
+}
+
+add_action( 'wp_enqueue_scripts', 'my_scripts_method' );
+
+/* fix for navbar when logged in - http://goo.gl/74OUvA */
+function mbe_wp_head(){
+    echo '<style>'.PHP_EOL;
+    echo 'body{ padding-top: 64px !important; }'.PHP_EOL;
+    // Using custom CSS class name.
+    echo 'body.body-logged-in .navbar-fixed-top{ top: 32px !important; }'.PHP_EOL;
+    // Using WordPress default CSS class name.
+    echo 'body.logged-in .navbar-fixed-top{ top: 32px !important; }'.PHP_EOL;
+    echo '</style>'.PHP_EOL;
+}
